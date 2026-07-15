@@ -1,0 +1,8 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/nitch
+usr/share/
+usr/share/licenses/
+usr/share/licenses/nitch/
+usr/share/licenses/nitch/LICENSE
